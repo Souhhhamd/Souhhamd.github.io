@@ -43,4 +43,5 @@ Les projets sont hébergés sur Netlify.
 ---
 
 ## Contact
-- (ton mail ou ton insta pro si tu veux)
+- hamdoune003@gmail.com
+- https://www.linkedin.com/in/souhail-hamdoune-174774356
