@@ -1,0 +1,6 @@
+- ne s'affcihe pas :  recette(s) satisfont entierement la recherche
+- erreur dans la recherche :
+	--> "Jus de fruits" +Sel --> 61 recettes
+	--> "Jus de fruits" +Sel -Whisky --> 105 recettes 
+	ILLOGIQUE
+-
