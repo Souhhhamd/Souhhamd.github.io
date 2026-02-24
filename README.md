@@ -9,6 +9,7 @@ Les projets sont hébergés en ligne (Netlify / hébergement externe).
 ## Projet universitaire — Gestion de cocktails (PHP)
 
 🔗 https://hamdoune.alwaysdata.net/index.php  
+📂 Code source : https://github.com/souhhamd/Souhhamd.github.io/tree/main/cocktails
 
 **Contexte :**  
 Projet réalisé à l’université en groupe (3 personnes).  
