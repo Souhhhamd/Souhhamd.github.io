@@ -2,9 +2,49 @@
 # Portfolio — Projets Web
 
 Ce dépôt sert uniquement de vitrine (liens + présentation).  
-Les projets sont hébergés sur Netlify.
+Les projets sont hébergés en ligne (Netlify / hébergement externe).
 
 ---
+
+## Projet universitaire — Gestion de cocktails (PHP)
+
+🔗 https://hamdoune.alwaysdata.net/index.php  
+
+**Contexte :**  
+Projet réalisé à l’université en groupe (3 personnes).  
+Objectif : développer une application web complète en **PHP sans base de données**, permettant de parcourir, rechercher et sauvegarder des recettes de cocktails.
+
+**Fonctionnalités principales :**
+
+- Navigation dans une hiérarchie d’aliments (ex : fruit → agrume → orange)  
+- Affichage des recettes avec images et détails  
+- Système de **recettes favorites** (panier utilisateur)  
+- Inscription / connexion utilisateur  
+- Sauvegarde des préférences  
+- Recherche avancée d’ingrédients (avec + et -)  
+- Interface responsive et structurée  
+
+**Contraintes techniques :**
+
+- PHP natif (sans framework)  
+- Données stockées en fichiers  
+- Manipulation de tableaux de données  
+- Gestion des sessions utilisateur  
+- Validation de formulaires  
+- Organisation du projet web  
+
+**Compétences développées :**
+
+- Programmation PHP  
+- Gestion d’utilisateurs et sessions  
+- Manipulation de structures de données  
+- Recherche et filtrage logique  
+- Travail en équipe  
+- Déploiement web (Alwaysdata)  
+
+---
+
+## Projets personnels :
 
 ## 1) Gestion de tâches (application perso)
 🔗 https://gestion-taches-temps.netlify.app/
