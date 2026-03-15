@@ -1,47 +1,8 @@
 # Souhhamd.github.io
-# Portfolio — Projets Web
+# Portfolio — Projets Informatique
 
 Ce dépôt sert uniquement de vitrine (liens + présentation).  
 Les projets sont hébergés en ligne (Netlify / hébergement externe).
-
----
-
-## Projet universitaire — Gestion de cocktails (PHP)
-
-🔗 https://hamdoune.alwaysdata.net/index.php  
-📂 Code source : https://github.com/Souhhhamd/Souhhamd.github.io/tree/main/cocktails
-
-**Contexte :**  
-Projet réalisé à l’université en groupe (3 personnes).  
-Objectif : développer une application web complète en **PHP sans base de données**, permettant de parcourir, rechercher et sauvegarder des recettes de cocktails.
-
-**Fonctionnalités principales :**
-
-- Navigation dans une hiérarchie d’aliments (ex : fruit → agrume → orange)  
-- Affichage des recettes avec images et détails  
-- Système de **recettes favorites** (panier utilisateur)  
-- Inscription / connexion utilisateur  
-- Sauvegarde des préférences  
-- Recherche avancée d’ingrédients (avec + et -)  
-- Interface responsive et structurée  
-
-**Contraintes techniques :**
-
-- PHP natif (sans framework)  
-- Données stockées en fichiers  
-- Manipulation de tableaux de données  
-- Gestion des sessions utilisateur  
-- Validation de formulaires  
-- Organisation du projet web  
-
-**Compétences développées :**
-
-- Programmation PHP  
-- Gestion d’utilisateurs et sessions  
-- Manipulation de structures de données  
-- Recherche et filtrage logique  
-- Travail en équipe  
-- Déploiement web (Alwaysdata)  
 
 ---
 
@@ -86,7 +47,7 @@ Objectif : développer une application web complète en **PHP sans base de donn�
 ## 3) TaskFlow — Application Angular de gestion de tâches
 
 🔗 https://taskflow-gray-gamma.vercel.app/feed  
-📂 Code source : *(à ajouter si tu publies le repo GitHub)*
+📂 Code source : *(Sera ajouté lors de sa finalisation)*
 
 **Contexte :**  
 Projet académique développé avec **Angular** visant à concevoir une **Single Page Application (SPA)** permettant aux étudiants d’organiser efficacement leurs tâches.  
